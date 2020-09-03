@@ -68,20 +68,3 @@ module.exports={
 
 
 
-
-
-
-
-
-
-// const sgMail=require('@sendgrid/mail')
-// const sendgridAPIKey='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'
-
-// sgMail.setApiKey(sendgridAPIKey)
-
-// sgMail.send({
-//     to:'jenugadhiya78@gmail.com',
-//     from:'jenugadhiya78@gmail.com',
-//     subject:'sendgrid',
-//     text:'i am jenis'
-// })
